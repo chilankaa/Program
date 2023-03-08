@@ -1,6 +1,7 @@
 package revision.bin;
 
 public class Encap_Sample {
+	
 	private String name;
 	private int age;
 	
